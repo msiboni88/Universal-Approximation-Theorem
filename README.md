@@ -1,7 +1,9 @@
-# Neural Network Conceptual Lab
+# Conceptualizing the Universal Approximation Theorem
+### Week 11, Assignment 1 for General Assembly
 
-In this lab, you'll focus on the conceptual aspects of a neural network. By the end, you should be able to answer these questions:
-- What does each piece of a perceptron do?
-- How does each piece of a perceptron relate to the other pieces?
-- How powerful is a two-layer neural network?
-- How can we build a two-layer neural network from scratch to approximate a complicated function?
+The focus of this lab is to convey the capabilities of a neural network by reviewing resources on the universal approximation theorem. 
+
+This assignment includes manually coding out the math required to create a neural network with one hidden layer of 10 nodes. 
+
+
+![](https://github.com/msiboni88/Universal-Approximation-Theorem/blob/master/images/Unknown-1.png)
